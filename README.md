@@ -118,7 +118,7 @@
     </form>
   </div>
     <script>
-    const API_URL = 'https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec';
+    const API_URL = 'https://script.google.com/macros/s/AKfycbzlshYfATBPjFJyYSkXcaxu9FI2Pxs462dKBSEq4TYFlsPhsfTtv0ykPYfCSGA8cXN_Xg/exec';
     const loginForm = document.getElementById('loginForm');
     const submitBtn = document.getElementById('submitBtn');
     const errorElement = document.getElementById('errorMessage');
